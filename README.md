@@ -1,2 +1,2 @@
 # website
-frontpage website for exbuilder deployer
+landing page for exbuilder.org
